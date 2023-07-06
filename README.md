@@ -7,4 +7,4 @@
 
 
 
-[![Snake animation](https://github.com/<SEU_USUÁRIO>/<SEU_REPOSITÓRIO>/blob/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+[![Snake animation](https://github.com/<Artdev2004>/<Artdev2004>/blob/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
