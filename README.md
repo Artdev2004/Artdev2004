@@ -2,12 +2,13 @@
 <h3 align="center">Um desenvolvedor apaixonado por backend</h3>
 
 - 🔭 Atualmente trabalho no projeto da [Buki ](https://github.com/BukiLivros)
+- 🔭 E tam trabalho no projeto da [Buki ](https://github.com/BukiLivros)
 
 - 🌱 Atualmente estudo **Java, Spring, Oracle, MySQL e MongoDB**
 
 - ⚡ Sou uma pessoa **calma e ouvinte**
 
-<h3 align="left">Connect comigo:</h3>
+<h3 align="left">Conecte comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arthur soares do nascimento" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur soares do nascimento" height="30" width="40" /></a>
 <a href="https://instagram.com/art_devl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="art_devl" height="30" width="40" /></a>
