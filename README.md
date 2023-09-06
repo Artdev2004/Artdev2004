@@ -1,10 +1,10 @@
 <h1 align="center">Olá, Seja Bem-vindo 👋, Eu sou o Arthur</h1>
-<h3 align="center">Um desenvolvedor apaixonado por backend</h3>
+<h3 align="center">Um desenvolvedor apaixonado por FullStack</h3>
 
 - 🔭 Atualmente trabalho no projeto da [Buki ](https://github.com/BukiLivros)
 - 🔭 Outro projeto de destaque [M8Music ](https://github.com/Artdev2004/mmusic-host-api)
 
-- 🌱 Atualmente estudo **Java, Spring, Oracle, MySQL e MongoDB**
+- 🌱 Atualmente estudo **JavaScript, JQuery, BootStrap, Fluig, Java e Oracle**
 
 - ⚡ Sou uma pessoa **calma e ouvinte**
 
